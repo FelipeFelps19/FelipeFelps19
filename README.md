@@ -1,5 +1,5 @@
 ## Hello! My name is Felipe, and this is my GitHub
-Actually, i´m studying Python.
+Currently, i´m studying Python.
 ##
 
 <p align="center">
