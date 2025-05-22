@@ -1,5 +1,5 @@
 ## Hello! My name is Felipe, and this is my GitHub
-Currently, i´m studying Python.
+Currently, i´m studying Python. <br>
 And developing a mobile app with an AI that assists in emergency situations and first aid.
 ##
 
